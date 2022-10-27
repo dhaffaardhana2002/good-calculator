@@ -1,0 +1,3 @@
+# Good Calculator
+
+This is the second project I've made. Still in progress...
